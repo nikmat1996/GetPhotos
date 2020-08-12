@@ -1,0 +1,10 @@
+.search {
+    display: grid;
+    place-items: center;
+    padding: 2%;
+}
+
+.pics-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
